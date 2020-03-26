@@ -1,0 +1,28 @@
+.BECalendar {
+  width: 400px;
+  margin: 20px auto;
+}
+.BECalendar .result {
+  box-sizing: border-box;
+  text-align: center;
+  width: 400px;
+  height: 30px;
+  border: 1px solid #c6c8ca;
+  position: relative;
+}
+.BECalendar .result span {
+  position: absolute;
+}
+.BECalendar .begin {
+  float: left;
+  width: 40%;
+}
+.BECalendar .days {
+  float: left;
+  width: 20%;
+}
+.BECalendar .end {
+  float: left;
+  width: 40%;
+}
+/*# sourceMappingURL=BECalendar.css.map */
